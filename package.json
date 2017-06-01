@@ -1,0 +1,27 @@
+{
+  "name": "omnipay-wechatpay",
+  "version": "1.0.0",
+  "description": "**WechatPay driver for the Omnipay PHP payment processing library**",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raomingchao/omnipay-wechatpay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raomingchao/omnipay-wechatpay/issues"
+  },
+  "homepage": "https://github.com/raomingchao/omnipay-wechatpay#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-phpunit": "^0.23.0"
+  }
+}
