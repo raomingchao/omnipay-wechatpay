@@ -15,8 +15,11 @@ abstract class BaseAbstractGateway extends AbstractGateway
         return array(
           'app_id'     => '',
           'mch_id'     => '',
+          'api_key'    => '',
           'notify_url' => '',
           'trade_type' => '',
+          'cert_path'  => '',
+          'key_path'   => '',
         );
     }
 
